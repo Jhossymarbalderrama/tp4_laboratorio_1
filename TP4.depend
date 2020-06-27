@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1591976239 source:c:\users\balde\desktop\tp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	<string.h>
+
+1592312333 c:\users\balde\desktop\tp4\linkedlist.h
+
+1591975797 c:\users\balde\desktop\tp4\controller.h
+
+1591976247 c:\users\balde\desktop\tp4\employee.h
+
+1593199133 source:c:\users\balde\desktop\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593200282 source:c:\users\balde\desktop\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	<conio.h>
+	<ctype.h>
+
+1593200064 source:c:\users\balde\desktop\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
